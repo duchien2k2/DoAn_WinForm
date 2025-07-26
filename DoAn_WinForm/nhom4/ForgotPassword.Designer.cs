@@ -1,0 +1,203 @@
+﻿namespace nhom4
+{
+    partial class Form_ForgotPassword
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.link_Back = new System.Windows.Forms.LinkLabel();
+            this.link_FormRegister = new System.Windows.Forms.LinkLabel();
+            this.btn_DongY = new System.Windows.Forms.Button();
+            this.txt_PassNew = new System.Windows.Forms.TextBox();
+            this.txt_SDT = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.txt_ComPass = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // link_Back
+            // 
+            this.link_Back.AutoSize = true;
+            this.link_Back.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
+            this.link_Back.LinkColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.link_Back.Location = new System.Drawing.Point(339, 632);
+            this.link_Back.Name = "link_Back";
+            this.link_Back.Size = new System.Drawing.Size(81, 23);
+            this.link_Back.TabIndex = 14;
+            this.link_Back.TabStop = true;
+            this.link_Back.Text = "Quay lại";
+            this.link_Back.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.link_Back_LinkClicked);
+            // 
+            // link_FormRegister
+            // 
+            this.link_FormRegister.AutoSize = true;
+            this.link_FormRegister.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
+            this.link_FormRegister.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.link_FormRegister.LinkColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.link_FormRegister.Location = new System.Drawing.Point(74, 632);
+            this.link_FormRegister.Name = "link_FormRegister";
+            this.link_FormRegister.Size = new System.Drawing.Size(175, 23);
+            this.link_FormRegister.TabIndex = 13;
+            this.link_FormRegister.TabStop = true;
+            this.link_FormRegister.Text = "Đăng Ký Tài Khoản";
+            this.link_FormRegister.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.link_FormRegister_LinkClicked);
+            // 
+            // btn_DongY
+            // 
+            this.btn_DongY.BackColor = System.Drawing.Color.LightCoral;
+            this.btn_DongY.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_DongY.Location = new System.Drawing.Point(78, 519);
+            this.btn_DongY.Name = "btn_DongY";
+            this.btn_DongY.Size = new System.Drawing.Size(354, 49);
+            this.btn_DongY.TabIndex = 12;
+            this.btn_DongY.Text = "Đồng Ý";
+            this.btn_DongY.UseVisualStyleBackColor = false;
+            this.btn_DongY.Click += new System.EventHandler(this.btn_DongY_Click);
+            // 
+            // txt_PassNew
+            // 
+            this.txt_PassNew.AcceptsTab = true;
+            this.txt_PassNew.BackColor = System.Drawing.Color.LightGray;
+            this.txt_PassNew.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_PassNew.Location = new System.Drawing.Point(77, 359);
+            this.txt_PassNew.Multiline = true;
+            this.txt_PassNew.Name = "txt_PassNew";
+            this.txt_PassNew.Size = new System.Drawing.Size(354, 38);
+            this.txt_PassNew.TabIndex = 11;
+            this.txt_PassNew.UseSystemPasswordChar = true;
+            this.txt_PassNew.TextChanged += new System.EventHandler(this.txt_PassNew_TextChanged);
+            // 
+            // txt_SDT
+            // 
+            this.txt_SDT.AcceptsTab = true;
+            this.txt_SDT.BackColor = System.Drawing.Color.LightGray;
+            this.txt_SDT.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_SDT.Location = new System.Drawing.Point(77, 261);
+            this.txt_SDT.Multiline = true;
+            this.txt_SDT.Name = "txt_SDT";
+            this.txt_SDT.Size = new System.Drawing.Size(354, 38);
+            this.txt_SDT.TabIndex = 10;
+            this.txt_SDT.TextChanged += new System.EventHandler(this.txt_SDT_TextChanged);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
+            this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.label2.Location = new System.Drawing.Point(74, 318);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(94, 23);
+            this.label2.TabIndex = 9;
+            this.label2.Text = "Mật Khẩu";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.label1.Location = new System.Drawing.Point(73, 223);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(128, 23);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "Số Điện Thoại";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::nhom4.Properties.Resources.pet_shop;
+            this.pictureBox1.Location = new System.Drawing.Point(188, 77);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(127, 104);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 15;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // txt_ComPass
+            // 
+            this.txt_ComPass.AcceptsTab = true;
+            this.txt_ComPass.BackColor = System.Drawing.Color.LightGray;
+            this.txt_ComPass.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_ComPass.Location = new System.Drawing.Point(77, 452);
+            this.txt_ComPass.Multiline = true;
+            this.txt_ComPass.Name = "txt_ComPass";
+            this.txt_ComPass.Size = new System.Drawing.Size(354, 38);
+            this.txt_ComPass.TabIndex = 17;
+            this.txt_ComPass.TextChanged += new System.EventHandler(this.txt_ComPass_TextChanged);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.label3.Location = new System.Drawing.Point(73, 414);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(181, 23);
+            this.label3.TabIndex = 16;
+            this.label3.Text = " Nhập Lại Mật Khẩu";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // Form_ForgotPassword
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(510, 724);
+            this.Controls.Add(this.txt_ComPass);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.link_Back);
+            this.Controls.Add(this.link_FormRegister);
+            this.Controls.Add(this.btn_DongY);
+            this.Controls.Add(this.txt_PassNew);
+            this.Controls.Add(this.txt_SDT);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Name = "Form_ForgotPassword";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "ForgotPassword";
+            this.Load += new System.EventHandler(this.ForgotPassword_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.LinkLabel link_Back;
+        private System.Windows.Forms.LinkLabel link_FormRegister;
+        private System.Windows.Forms.Button btn_DongY;
+        private System.Windows.Forms.TextBox txt_PassNew;
+        private System.Windows.Forms.TextBox txt_SDT;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txt_ComPass;
+        private System.Windows.Forms.Label label3;
+    }
+}
