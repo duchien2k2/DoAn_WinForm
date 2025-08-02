@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(XtraForm1));
-            this.searchControl1 = new DevExpress.XtraEditors.SearchControl();
             this.navBarControl1 = new DevExpress.XtraNavBar.NavBarControl();
             this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
             this.navBarGroup2 = new DevExpress.XtraNavBar.NavBarGroup();
@@ -56,9 +55,19 @@
             this.navBarSeparatorItem6 = new DevExpress.XtraNavBar.NavBarSeparatorItem();
             this.navBarSeparatorItem7 = new DevExpress.XtraNavBar.NavBarSeparatorItem();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
+            this.lbl_UserInfo = new DevExpress.XtraEditors.LabelControl();
+            this.pic_UserIcon = new DevExpress.XtraEditors.PictureEdit();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.svgImageBox1 = new DevExpress.XtraEditors.SvgImageBox();
             this.navBarItem10 = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarGroup6 = new DevExpress.XtraNavBar.NavBarGroup();
+            this.navBarGroup9 = new DevExpress.XtraNavBar.NavBarGroup();
+            this.navBarGroup10 = new DevExpress.XtraNavBar.NavBarGroup();
+            this.button1 = new System.Windows.Forms.Button();
+            this.btn_FormAdmin = new System.Windows.Forms.Button();
+            this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -66,36 +75,16 @@
             this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn5 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridControl1 = new DevExpress.XtraGrid.GridControl();
-            this.navBarGroup6 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarGroup9 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.navBarGroup10 = new DevExpress.XtraNavBar.NavBarGroup();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
-            this.button1 = new System.Windows.Forms.Button();
-            this.btn_FormAdmin = new System.Windows.Forms.Button();
-            this.pic_UserIcon = new DevExpress.XtraEditors.PictureEdit();
-            this.lbl_UserInfo = new DevExpress.XtraEditors.LabelControl();
-            ((System.ComponentModel.ISupportInitialize)(this.searchControl1.Properties)).BeginInit();
+            this.searchControl1 = new DevExpress.XtraEditors.SearchControl();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_UserIcon.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.svgImageBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_UserIcon.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.searchControl1.Properties)).BeginInit();
             this.SuspendLayout();
-            // 
-            // searchControl1
-            // 
-            this.searchControl1.Location = new System.Drawing.Point(267, 196);
-            this.searchControl1.Margin = new System.Windows.Forms.Padding(4);
-            this.searchControl1.Name = "searchControl1";
-            this.searchControl1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Repository.ClearButton(),
-            new DevExpress.XtraEditors.Repository.SearchButton()});
-            this.searchControl1.Size = new System.Drawing.Size(894, 22);
-            this.searchControl1.TabIndex = 2;
             // 
             // navBarControl1
             // 
@@ -354,12 +343,31 @@
             this.panelControl1.Controls.Add(this.labelControl1);
             this.panelControl1.Controls.Add(this.svgImageBox1);
             this.panelControl1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.panelControl1.Location = new System.Drawing.Point(14, 15);
-            this.panelControl1.Margin = new System.Windows.Forms.Padding(4);
+            this.panelControl1.Location = new System.Drawing.Point(22, 24);
+            this.panelControl1.Margin = new System.Windows.Forms.Padding(6);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(1147, 170);
+            this.panelControl1.Size = new System.Drawing.Size(1792, 265);
             this.panelControl1.TabIndex = 7;
             this.panelControl1.Paint += new System.Windows.Forms.PaintEventHandler(this.panelControl1_Paint);
+            // 
+            // lbl_UserInfo
+            // 
+            this.lbl_UserInfo.Location = new System.Drawing.Point(1565, 138);
+            this.lbl_UserInfo.Margin = new System.Windows.Forms.Padding(5);
+            this.lbl_UserInfo.Name = "lbl_UserInfo";
+            this.lbl_UserInfo.Size = new System.Drawing.Size(75, 16);
+            this.lbl_UserInfo.TabIndex = 6;
+            this.lbl_UserInfo.Text = "labelControl2";
+            // 
+            // pic_UserIcon
+            // 
+            this.pic_UserIcon.Location = new System.Drawing.Point(1439, 82);
+            this.pic_UserIcon.Margin = new System.Windows.Forms.Padding(5);
+            this.pic_UserIcon.Name = "pic_UserIcon";
+            this.pic_UserIcon.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
+            this.pic_UserIcon.Size = new System.Drawing.Size(118, 102);
+            this.pic_UserIcon.TabIndex = 4;
+            this.pic_UserIcon.EditValueChanged += new System.EventHandler(this.pictureEdit1_EditValueChanged);
             // 
             // labelControl1
             // 
@@ -369,8 +377,8 @@
             this.labelControl1.Appearance.Options.UseBackColor = true;
             this.labelControl1.Appearance.Options.UseFont = true;
             this.labelControl1.Appearance.Options.UseForeColor = true;
-            this.labelControl1.Location = new System.Drawing.Point(173, 53);
-            this.labelControl1.Margin = new System.Windows.Forms.Padding(4);
+            this.labelControl1.Location = new System.Drawing.Point(270, 82);
+            this.labelControl1.Margin = new System.Windows.Forms.Padding(6);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(266, 51);
             this.labelControl1.TabIndex = 3;
@@ -380,9 +388,9 @@
             // 
             this.svgImageBox1.ImageAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.svgImageBox1.Location = new System.Drawing.Point(0, 0);
-            this.svgImageBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.svgImageBox1.Margin = new System.Windows.Forms.Padding(6);
             this.svgImageBox1.Name = "svgImageBox1";
-            this.svgImageBox1.Size = new System.Drawing.Size(1147, 170);
+            this.svgImageBox1.Size = new System.Drawing.Size(1792, 265);
             this.svgImageBox1.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("svgImageBox1.SvgImage")));
             this.svgImageBox1.TabIndex = 2;
             this.svgImageBox1.Text = "svgImageBox1";
@@ -392,77 +400,6 @@
             // 
             this.navBarItem10.Caption = "navBarItem10";
             this.navBarItem10.Name = "navBarItem10";
-            // 
-            // gridView1
-            // 
-            this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
-            this.gridColumn1,
-            this.gridColumn2,
-            this.gridColumn3,
-            this.gridColumn4,
-            this.gridColumn5});
-            this.gridView1.DetailHeight = 431;
-            this.gridView1.GridControl = this.gridControl1;
-            this.gridView1.Name = "gridView1";
-            this.gridView1.OptionsEditForm.PopupEditFormWidth = 933;
-            // 
-            // gridColumn1
-            // 
-            this.gridColumn1.Caption = "ID";
-            this.gridColumn1.MinWidth = 23;
-            this.gridColumn1.Name = "gridColumn1";
-            this.gridColumn1.Visible = true;
-            this.gridColumn1.VisibleIndex = 0;
-            this.gridColumn1.Width = 87;
-            // 
-            // gridColumn2
-            // 
-            this.gridColumn2.Caption = "Tên dịch vụ";
-            this.gridColumn2.MinWidth = 23;
-            this.gridColumn2.Name = "gridColumn2";
-            this.gridColumn2.Visible = true;
-            this.gridColumn2.VisibleIndex = 1;
-            this.gridColumn2.Width = 87;
-            // 
-            // gridColumn3
-            // 
-            this.gridColumn3.Caption = "Tên Khách Hàng";
-            this.gridColumn3.MinWidth = 23;
-            this.gridColumn3.Name = "gridColumn3";
-            this.gridColumn3.Visible = true;
-            this.gridColumn3.VisibleIndex = 2;
-            this.gridColumn3.Width = 87;
-            // 
-            // gridColumn4
-            // 
-            this.gridColumn4.Caption = "Số lượng";
-            this.gridColumn4.MinWidth = 23;
-            this.gridColumn4.Name = "gridColumn4";
-            this.gridColumn4.Visible = true;
-            this.gridColumn4.VisibleIndex = 3;
-            this.gridColumn4.Width = 87;
-            // 
-            // gridColumn5
-            // 
-            this.gridColumn5.Caption = "Đơn giá";
-            this.gridColumn5.MinWidth = 23;
-            this.gridColumn5.Name = "gridColumn5";
-            this.gridColumn5.Visible = true;
-            this.gridColumn5.VisibleIndex = 4;
-            this.gridColumn5.Width = 87;
-            // 
-            // gridControl1
-            // 
-            this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4);
-            this.gridControl1.Location = new System.Drawing.Point(268, 228);
-            this.gridControl1.MainView = this.gridView1;
-            this.gridControl1.Margin = new System.Windows.Forms.Padding(4);
-            this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(893, 533);
-            this.gridControl1.TabIndex = 6;
-            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.gridView1});
-            this.gridControl1.Click += new System.EventHandler(this.gridControl1_Click_1);
             // 
             // navBarGroup6
             // 
@@ -494,46 +431,6 @@
             this.navBarGroup10.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("navBarGroup10.ImageOptions.SvgImage")));
             this.navBarGroup10.Name = "navBarGroup10";
             // 
-            // simpleButton1
-            // 
-            this.simpleButton1.Appearance.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.simpleButton1.Appearance.ForeColor = System.Drawing.Color.Red;
-            this.simpleButton1.Appearance.Options.UseFont = true;
-            this.simpleButton1.Appearance.Options.UseForeColor = true;
-            this.simpleButton1.Location = new System.Drawing.Point(294, 228);
-            this.simpleButton1.Margin = new System.Windows.Forms.Padding(4);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(110, 41);
-            this.simpleButton1.TabIndex = 8;
-            this.simpleButton1.Text = "Thêm";
-            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
-            // 
-            // simpleButton2
-            // 
-            this.simpleButton2.Appearance.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.simpleButton2.Appearance.ForeColor = System.Drawing.Color.Red;
-            this.simpleButton2.Appearance.Options.UseFont = true;
-            this.simpleButton2.Appearance.Options.UseForeColor = true;
-            this.simpleButton2.Location = new System.Drawing.Point(447, 228);
-            this.simpleButton2.Margin = new System.Windows.Forms.Padding(4);
-            this.simpleButton2.Name = "simpleButton2";
-            this.simpleButton2.Size = new System.Drawing.Size(110, 41);
-            this.simpleButton2.TabIndex = 9;
-            this.simpleButton2.Text = "Xóa";
-            // 
-            // simpleButton3
-            // 
-            this.simpleButton3.Appearance.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.simpleButton3.Appearance.ForeColor = System.Drawing.Color.Red;
-            this.simpleButton3.Appearance.Options.UseFont = true;
-            this.simpleButton3.Appearance.Options.UseForeColor = true;
-            this.simpleButton3.Location = new System.Drawing.Point(606, 228);
-            this.simpleButton3.Margin = new System.Windows.Forms.Padding(4);
-            this.simpleButton3.Name = "simpleButton3";
-            this.simpleButton3.Size = new System.Drawing.Size(110, 41);
-            this.simpleButton3.TabIndex = 10;
-            this.simpleButton3.Text = "Sửa";
-            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Brown;
@@ -560,22 +457,128 @@
             this.btn_FormAdmin.UseVisualStyleBackColor = false;
             this.btn_FormAdmin.Click += new System.EventHandler(this.btn_FormAdmin_Click);
             // 
-            // pic_UserIcon
+            // simpleButton3
             // 
-            this.pic_UserIcon.Location = new System.Drawing.Point(921, 53);
-            this.pic_UserIcon.Name = "pic_UserIcon";
-            this.pic_UserIcon.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
-            this.pic_UserIcon.Size = new System.Drawing.Size(75, 66);
-            this.pic_UserIcon.TabIndex = 4;
-            this.pic_UserIcon.EditValueChanged += new System.EventHandler(this.pictureEdit1_EditValueChanged);
+            this.simpleButton3.Appearance.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.simpleButton3.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.simpleButton3.Appearance.Options.UseFont = true;
+            this.simpleButton3.Appearance.Options.UseForeColor = true;
+            this.simpleButton3.Location = new System.Drawing.Point(1185, 445);
+            this.simpleButton3.Margin = new System.Windows.Forms.Padding(8);
+            this.simpleButton3.Name = "simpleButton3";
+            this.simpleButton3.Size = new System.Drawing.Size(215, 80);
+            this.simpleButton3.TabIndex = 10;
+            this.simpleButton3.Text = "Sửa";
+            this.simpleButton3.Click += new System.EventHandler(this.simpleButton3_Click);
             // 
-            // lbl_UserInfo
+            // simpleButton1
             // 
-            this.lbl_UserInfo.Location = new System.Drawing.Point(1002, 88);
-            this.lbl_UserInfo.Name = "lbl_UserInfo";
-            this.lbl_UserInfo.Size = new System.Drawing.Size(75, 16);
-            this.lbl_UserInfo.TabIndex = 6;
-            this.lbl_UserInfo.Text = "labelControl2";
+            this.simpleButton1.Appearance.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.simpleButton1.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.simpleButton1.Appearance.Options.UseFont = true;
+            this.simpleButton1.Appearance.Options.UseForeColor = true;
+            this.simpleButton1.Location = new System.Drawing.Point(575, 445);
+            this.simpleButton1.Margin = new System.Windows.Forms.Padding(8);
+            this.simpleButton1.Name = "simpleButton1";
+            this.simpleButton1.Size = new System.Drawing.Size(215, 80);
+            this.simpleButton1.TabIndex = 8;
+            this.simpleButton1.Text = "Thêm";
+            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
+            // 
+            // simpleButton2
+            // 
+            this.simpleButton2.Appearance.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.simpleButton2.Appearance.ForeColor = System.Drawing.Color.Red;
+            this.simpleButton2.Appearance.Options.UseFont = true;
+            this.simpleButton2.Appearance.Options.UseForeColor = true;
+            this.simpleButton2.Location = new System.Drawing.Point(874, 445);
+            this.simpleButton2.Margin = new System.Windows.Forms.Padding(8);
+            this.simpleButton2.Name = "simpleButton2";
+            this.simpleButton2.Size = new System.Drawing.Size(215, 80);
+            this.simpleButton2.TabIndex = 9;
+            this.simpleButton2.Text = "Xóa";
+            // 
+            // gridView1
+            // 
+            this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.gridColumn1,
+            this.gridColumn2,
+            this.gridColumn3,
+            this.gridColumn4,
+            this.gridColumn5});
+            this.gridView1.DetailHeight = 842;
+            this.gridView1.GridControl = this.gridControl1;
+            this.gridView1.Name = "gridView1";
+            this.gridView1.OptionsEditForm.PopupEditFormWidth = 933;
+            // 
+            // gridColumn1
+            // 
+            this.gridColumn1.Caption = "ID";
+            this.gridColumn1.MinWidth = 45;
+            this.gridColumn1.Name = "gridColumn1";
+            this.gridColumn1.Visible = true;
+            this.gridColumn1.VisibleIndex = 0;
+            this.gridColumn1.Width = 170;
+            // 
+            // gridColumn2
+            // 
+            this.gridColumn2.Caption = "Tên dịch vụ";
+            this.gridColumn2.MinWidth = 45;
+            this.gridColumn2.Name = "gridColumn2";
+            this.gridColumn2.Visible = true;
+            this.gridColumn2.VisibleIndex = 1;
+            this.gridColumn2.Width = 170;
+            // 
+            // gridColumn3
+            // 
+            this.gridColumn3.Caption = "Tên Khách Hàng";
+            this.gridColumn3.MinWidth = 45;
+            this.gridColumn3.Name = "gridColumn3";
+            this.gridColumn3.Visible = true;
+            this.gridColumn3.VisibleIndex = 2;
+            this.gridColumn3.Width = 170;
+            // 
+            // gridColumn4
+            // 
+            this.gridColumn4.Caption = "Số lượng";
+            this.gridColumn4.MinWidth = 45;
+            this.gridColumn4.Name = "gridColumn4";
+            this.gridColumn4.Visible = true;
+            this.gridColumn4.VisibleIndex = 3;
+            this.gridColumn4.Width = 170;
+            // 
+            // gridColumn5
+            // 
+            this.gridColumn5.Caption = "Đơn giá";
+            this.gridColumn5.MinWidth = 45;
+            this.gridColumn5.Name = "gridColumn5";
+            this.gridColumn5.Visible = true;
+            this.gridColumn5.VisibleIndex = 4;
+            this.gridColumn5.Width = 170;
+            // 
+            // gridControl1
+            // 
+            this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(6);
+            this.gridControl1.Location = new System.Drawing.Point(419, 356);
+            this.gridControl1.MainView = this.gridView1;
+            this.gridControl1.Margin = new System.Windows.Forms.Padding(6);
+            this.gridControl1.Name = "gridControl1";
+            this.gridControl1.Size = new System.Drawing.Size(1395, 832);
+            this.gridControl1.TabIndex = 6;
+            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gridView1});
+            this.gridControl1.Click += new System.EventHandler(this.gridControl1_Click_1);
+            // 
+            // searchControl1
+            // 
+            this.searchControl1.Location = new System.Drawing.Point(418, 306);
+            this.searchControl1.Margin = new System.Windows.Forms.Padding(6);
+            this.searchControl1.Name = "searchControl1";
+            this.searchControl1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Repository.ClearButton(),
+            new DevExpress.XtraEditors.Repository.SearchButton()});
+            this.searchControl1.Size = new System.Drawing.Size(1398, 22);
+            this.searchControl1.TabIndex = 2;
             // 
             // XtraForm1
             // 
@@ -583,7 +586,7 @@
             this.Appearance.Options.UseBackColor = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1175, 795);
+            this.ClientSize = new System.Drawing.Size(1776, 870);
             this.Controls.Add(this.btn_FormAdmin);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.simpleButton3);
@@ -598,21 +601,20 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cửa Hàng Thú Cưng";
             this.Load += new System.EventHandler(this.XtraForm1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.searchControl1.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.navBarControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
             this.panelControl1.ResumeLayout(false);
             this.panelControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_UserIcon.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.svgImageBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_UserIcon.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.searchControl1.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private DevExpress.XtraEditors.SearchControl searchControl1;
         private DevExpress.XtraNavBar.NavBarControl navBarControl1;
         private DevExpress.XtraNavBar.NavBarGroup navBarGroup1;
         private DevExpress.XtraEditors.PanelControl panelControl1;
@@ -642,6 +644,16 @@
         private DevExpress.XtraNavBar.NavBarSeparatorItem navBarSeparatorItem6;
         private DevExpress.XtraNavBar.NavBarSeparatorItem navBarSeparatorItem7;
         private DevExpress.XtraNavBar.NavBarItem navBarItem11;
+        private DevExpress.XtraNavBar.NavBarGroup navBarGroup6;
+        private DevExpress.XtraNavBar.NavBarGroup navBarGroup9;
+        private DevExpress.XtraNavBar.NavBarGroup navBarGroup10;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_FormAdmin;
+        private DevExpress.XtraEditors.PictureEdit pic_UserIcon;
+        private DevExpress.XtraEditors.LabelControl lbl_UserInfo;
+        private DevExpress.XtraEditors.SimpleButton simpleButton3;
+        private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private DevExpress.XtraEditors.SimpleButton simpleButton2;
         private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn1;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn2;
@@ -649,15 +661,6 @@
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn4;
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn5;
         private DevExpress.XtraGrid.GridControl gridControl1;
-        private DevExpress.XtraNavBar.NavBarGroup navBarGroup6;
-        private DevExpress.XtraNavBar.NavBarGroup navBarGroup9;
-        private DevExpress.XtraNavBar.NavBarGroup navBarGroup10;
-        private DevExpress.XtraEditors.SimpleButton simpleButton1;
-        private DevExpress.XtraEditors.SimpleButton simpleButton2;
-        private DevExpress.XtraEditors.SimpleButton simpleButton3;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btn_FormAdmin;
-        private DevExpress.XtraEditors.PictureEdit pic_UserIcon;
-        private DevExpress.XtraEditors.LabelControl lbl_UserInfo;
+        private DevExpress.XtraEditors.SearchControl searchControl1;
     }
 }

@@ -89,9 +89,10 @@
             this.txt_PassNew.Multiline = true;
             this.txt_PassNew.Name = "txt_PassNew";
             this.txt_PassNew.Size = new System.Drawing.Size(354, 38);
-            this.txt_PassNew.TabIndex = 11;
+            this.txt_PassNew.TabIndex = 1;
             this.txt_PassNew.UseSystemPasswordChar = true;
             this.txt_PassNew.TextChanged += new System.EventHandler(this.txt_PassNew_TextChanged);
+            this.txt_PassNew.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_PassNew_KeyDown);
             // 
             // txt_SDT
             // 
@@ -102,8 +103,9 @@
             this.txt_SDT.Multiline = true;
             this.txt_SDT.Name = "txt_SDT";
             this.txt_SDT.Size = new System.Drawing.Size(354, 38);
-            this.txt_SDT.TabIndex = 10;
+            this.txt_SDT.TabIndex = 0;
             this.txt_SDT.TextChanged += new System.EventHandler(this.txt_SDT_TextChanged);
+            this.txt_SDT.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_SDT_KeyDown);
             // 
             // label2
             // 
@@ -147,7 +149,7 @@
             this.txt_ComPass.Multiline = true;
             this.txt_ComPass.Name = "txt_ComPass";
             this.txt_ComPass.Size = new System.Drawing.Size(354, 38);
-            this.txt_ComPass.TabIndex = 17;
+            this.txt_ComPass.TabIndex = 2;
             this.txt_ComPass.TextChanged += new System.EventHandler(this.txt_ComPass_TextChanged);
             this.txt_ComPass.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_ComPass_KeyDown);
             // 

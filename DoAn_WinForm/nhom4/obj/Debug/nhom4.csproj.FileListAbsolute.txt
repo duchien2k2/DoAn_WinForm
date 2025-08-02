@@ -92,9 +92,12 @@ D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\bin\Debug\DevExpress.XtraDiagram.v22.2.xm
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.csproj.AssemblyReference.cache
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Form_ForgotPassword.resources
+D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Form_Admin.resources
+D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Form_AdminPassword.resources
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Form_Login.resources
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Properties.Resources.resources
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Form_Register.resources
+D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Models.XtraForm1.resources
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.csproj.GenerateResource.cache
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.exe.licenses
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.csproj.CoreCompileInputs.cache
@@ -102,5 +105,3 @@ D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.csproj.Up2Date
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.exe
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.pdb
 D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.exe.config
-D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Form_Admin.resources
-D:\DoAnNhom_WinForm\DoAn_WinForm\nhom4\obj\Debug\nhom4.Models.XtraForm1.resources

@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\doannhom_winform\\doan_winform\\nhom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\form_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\form_admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\form_admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,142 +50,117 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.cs",
-              "RelativeDocumentMoniker": "nhom4\\Login.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.cs",
-              "RelativeToolTip": "nhom4\\Login.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T13:30:01.854Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Program.cs",
-              "RelativeDocumentMoniker": "nhom4\\Program.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Program.cs",
-              "RelativeToolTip": "nhom4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\Login.Designer.cs",
+              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.Designer.cs",
+              "RelativeToolTip": "nhom4\\Login.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAnwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T10:25:31.321Z",
+              "WhenOpened": "2025-08-02T11:59:36.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form_Admin.cs",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs",
-              "RelativeDocumentMoniker": "nhom4\\Form_Admin.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs",
-              "RelativeToolTip": "nhom4\\Form_Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T09:43:46.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form_Admin.cs [Design]",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs",
-              "RelativeDocumentMoniker": "nhom4\\Form_Admin.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs [Design]",
-              "RelativeToolTip": "nhom4\\Form_Admin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T09:41:29.805Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "XtraForm1.cs",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\XtraForm1.cs",
-              "RelativeDocumentMoniker": "nhom4\\XtraForm1.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\XtraForm1.cs",
-              "RelativeToolTip": "nhom4\\XtraForm1.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAmwFQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T07:17:51.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "XtraForm1.cs [Design]",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\XtraForm1.cs",
-              "RelativeDocumentMoniker": "nhom4\\XtraForm1.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\XtraForm1.cs [Design]",
-              "RelativeToolTip": "nhom4\\XtraForm1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T07:05:36.87Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Register.cs",
               "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Register.cs",
               "RelativeDocumentMoniker": "nhom4\\Register.cs",
               "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Register.cs",
               "RelativeToolTip": "nhom4\\Register.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALgAAAAAAAAAAAA+wNgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T13:35:14.72Z",
+              "WhenOpened": "2025-08-02T10:56:25.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Register.cs",
               "RelativeDocumentMoniker": "nhom4\\Register.cs",
               "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Register.cs [Design]",
               "RelativeToolTip": "nhom4\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T13:32:03.341Z",
+              "WhenOpened": "2025-08-02T10:56:03.879Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ForgotPassword.cs",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "nhom4\\ForgotPassword.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\ForgotPassword.cs",
-              "RelativeToolTip": "nhom4\\ForgotPassword.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAgwHMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.cs",
+              "RelativeDocumentMoniker": "nhom4\\Login.cs",
+              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.cs",
+              "RelativeToolTip": "nhom4\\Login.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwJgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T13:20:02.491Z",
+              "WhenOpened": "2025-08-02T10:43:51.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ForgotPassword.cs [Design]",
-              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "nhom4\\ForgotPassword.cs",
-              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\ForgotPassword.cs [Design]",
-              "RelativeToolTip": "nhom4\\ForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:37:51.725Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.cs",
               "RelativeDocumentMoniker": "nhom4\\Login.cs",
               "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Login.cs [Design]",
               "RelativeToolTip": "nhom4\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T01:33:46.976Z",
+              "WhenOpened": "2025-08-02T10:43:46.61Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_Admin.Designer.cs",
+              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\Form_Admin.Designer.cs",
+              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.Designer.cs",
+              "RelativeToolTip": "nhom4\\Form_Admin.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswJMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:21:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\User.cs",
+              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Models\\User.cs",
+              "RelativeToolTip": "nhom4\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:38:55.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_Admin.cs [Design]",
+              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs",
+              "RelativeDocumentMoniker": "nhom4\\Form_Admin.cs",
+              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs [Design]",
+              "RelativeToolTip": "nhom4\\Form_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:09:09.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_Admin.cs",
+              "DocumentMoniker": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs",
+              "RelativeDocumentMoniker": "nhom4\\Form_Admin.cs",
+              "ToolTip": "D:\\DoAnNhom_WinForm\\DoAn_WinForm\\nhom4\\Form_Admin.cs",
+              "RelativeToolTip": "nhom4\\Form_Admin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwJUBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:09:14.111Z",
+              "EditorCaption": ""
             }
           ]
         }

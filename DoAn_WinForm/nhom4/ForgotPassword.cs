@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DevExpress.PivotGrid.OLAP.Mdx;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,8 +30,15 @@ namespace nhom4
 
         private void txt_SDT_TextChanged(object sender, EventArgs e)
         {
-
+            string sdt = txt_SDT.Text;
+            if (!sdt.All(char.IsDigit))
+            {
+                MessageBox.Show("Số điện thoại chỉ được chứa chữ số.");
+                txt_SDT.Text = ""; // Xoá hoặc giữ tuỳ bạn
+                txt_SDT.Focus();
+            }
         }
+
 
         private void txt_PassNew_TextChanged(object sender, EventArgs e)
         {
@@ -110,6 +118,25 @@ namespace nhom4
                 btn_DongY.PerformClick();
                 e.Handled = true;
                 e.SuppressKeyPress = true;
+            }
+
+
+        }
+
+        private void txt_SDT_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true; // Ngăn không cho xuống dòng
+            }
+        }
+
+        private void txt_PassNew_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                txt_ComPass.Focus(); // focus ô kế tiếp
             }
         }
     }

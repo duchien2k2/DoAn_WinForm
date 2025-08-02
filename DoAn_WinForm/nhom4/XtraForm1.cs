@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -76,20 +77,16 @@ namespace nhom4.Models
                 lbl_UserInfo.Text = $"{currentUser.TenDangNhap} ({currentUser.VaiTro})";
 
                 // Gán ảnh tương ứng
-                string imagePath = "";
-
-                if (currentUser.VaiTro == "Admin")
-                {
-                    imagePath = @"Images\admin.jpg";
-                }
-                else
-                {
-                    imagePath = @"Images\User.jpg";
-                }
+                string imageFileName = currentUser.VaiTro == "Admin" ? "admin.jpg" : "user.jpg";
+                string imagePath = Path.Combine(Application.StartupPath, "Images", imageFileName);
 
                 if (System.IO.File.Exists(imagePath))
                 {
                     pic_UserIcon.Image = Image.FromFile(imagePath);
+                }
+                else
+                {
+                    MessageBox.Show("Không tìm thấy ảnh: " + imagePath);
                 }
 
                 // Tuỳ chỉnh PictureEdit
@@ -97,6 +94,7 @@ namespace nhom4.Models
                 pic_UserIcon.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
             }
         }
+
 
 
         private void simpleButton1_Click(object sender, EventArgs e)
@@ -125,6 +123,15 @@ namespace nhom4.Models
         }
 
         private void pictureEdit1_EditValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void searchControl1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+                    }
+
+        private void simpleButton3_Click(object sender, EventArgs e)
         {
 
         }

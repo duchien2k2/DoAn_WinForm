@@ -39,10 +39,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txt_HoVaTen = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.radio_Admin = new System.Windows.Forms.RadioButton();
             this.radioUser = new System.Windows.Forms.RadioButton();
             this.label_Role = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -94,9 +94,10 @@
             this.txt_Pass.Multiline = true;
             this.txt_Pass.Name = "txt_Pass";
             this.txt_Pass.Size = new System.Drawing.Size(354, 38);
-            this.txt_Pass.TabIndex = 10;
+            this.txt_Pass.TabIndex = 2;
             this.txt_Pass.UseSystemPasswordChar = true;
             this.txt_Pass.TextChanged += new System.EventHandler(this.txt_Pass_TextChanged);
+            this.txt_Pass.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Pass_KeyDown);
             // 
             // txt_Username
             // 
@@ -107,8 +108,9 @@
             this.txt_Username.Multiline = true;
             this.txt_Username.Name = "txt_Username";
             this.txt_Username.Size = new System.Drawing.Size(354, 38);
-            this.txt_Username.TabIndex = 9;
+            this.txt_Username.TabIndex = 1;
             this.txt_Username.TextChanged += new System.EventHandler(this.txt_Username_TextChanged);
+            this.txt_Username.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Username_KeyDown);
             // 
             // label2
             // 
@@ -143,8 +145,9 @@
             this.txt_SDT.Multiline = true;
             this.txt_SDT.Name = "txt_SDT";
             this.txt_SDT.Size = new System.Drawing.Size(354, 38);
-            this.txt_SDT.TabIndex = 15;
+            this.txt_SDT.TabIndex = 3;
             this.txt_SDT.TextChanged += new System.EventHandler(this.txt_SDT_TextChanged);
+            this.txt_SDT.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_SDT_KeyDown);
             // 
             // label3
             // 
@@ -165,8 +168,9 @@
             this.txt_HoVaTen.Multiline = true;
             this.txt_HoVaTen.Name = "txt_HoVaTen";
             this.txt_HoVaTen.Size = new System.Drawing.Size(354, 38);
-            this.txt_HoVaTen.TabIndex = 17;
+            this.txt_HoVaTen.TabIndex = 0;
             this.txt_HoVaTen.TextChanged += new System.EventHandler(this.txt_HoVaTen_TextChanged);
+            this.txt_HoVaTen.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_HoVaTen_KeyDown);
             // 
             // label4
             // 
@@ -178,16 +182,6 @@
             this.label4.Size = new System.Drawing.Size(101, 23);
             this.label4.TabIndex = 16;
             this.label4.Text = "Họ Và Tên";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::nhom4.Properties.Resources.pet_shop;
-            this.pictureBox1.Location = new System.Drawing.Point(172, 29);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(127, 104);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 18;
-            this.pictureBox1.TabStop = false;
             // 
             // radio_Admin
             // 
@@ -226,6 +220,16 @@
             this.label_Role.TabIndex = 23;
             this.label_Role.Text = "Vai Trò";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::nhom4.Properties.Resources.pet_shop;
+            this.pictureBox1.Location = new System.Drawing.Point(172, 29);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(127, 104);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 18;
+            this.pictureBox1.TabStop = false;
+            // 
             // Form_Register
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -246,7 +250,7 @@
             this.Controls.Add(this.txt_Username);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form_Register";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng ký";

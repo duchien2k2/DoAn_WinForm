@@ -22,6 +22,9 @@ namespace nhom4
         private void Form_Register_Load(object sender, EventArgs e)
         {
             txt_HoVaTen.Focus();
+       
+
+
         }
 
         private void txt_SDT_TextChanged(object sender, EventArgs e)
@@ -41,6 +44,7 @@ namespace nhom4
 
         private void txt_Pass_TextChanged(object sender, EventArgs e)
         {
+            txt_Pass.PasswordChar = '*'; // Ẩn mật khẩu bằng ký tự *
 
         }
 
@@ -51,7 +55,21 @@ namespace nhom4
 
         private void radio_Admin_CheckedChanged(object sender, EventArgs e)
         {
+            if (radio_Admin.Checked)
+            {
+                Form_AdminPassword f = new Form_AdminPassword();
+                f.ShowDialog(); // Mở form nhập mật khẩu
 
+                if (f.IsPasswordCorrect)
+                {
+                    // Cho phép chọn Admin, không cần làm gì thêm
+                }
+                else
+                {
+                    // Nếu sai mật khẩu → chuyển về radio User
+                    radioUser.Checked = true;
+                }
+            }
         }
 
         private void radioUser_CheckedChanged(object sender, EventArgs e)
@@ -71,6 +89,12 @@ namespace nhom4
             if (string.IsNullOrEmpty(hoVaTen) || string.IsNullOrEmpty(tenDangNhap) || string.IsNullOrEmpty(matKhau) || string.IsNullOrEmpty(soDienThoai))
             {
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            //kiem  tra mat khau dai hon 6 ky tu
+            if (matKhau.Length < 6)
+            {
+                MessageBox.Show("Mật khẩu phải có ít nhất 6 chữ số!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
@@ -97,6 +121,14 @@ namespace nhom4
 
             using (var db = new PetShopContextDB())
             {
+                // Kiểm tra trùng số điện thoại
+                var existingPhone = db.Users.FirstOrDefault(u => u.SoDienThoai == soDienThoai);
+                if (existingPhone != null)
+                {
+                    MessageBox.Show("Số điện thoại đã được sử dụng!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+
                 // Kiểm tra trùng tên đăng nhập
                 var existingUser = db.Users.FirstOrDefault(u => u.TenDangNhap == tenDangNhap);
                 if (existingUser != null)
@@ -149,5 +181,39 @@ namespace nhom4
         {
 
         }
+
+        private void txt_HoVaTen_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true; // Không cho xuống dòng
+            }
+        }
+
+        private void txt_Username_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true; // Không cho xuống dòng
+            }
+        }
+
+        private void txt_Pass_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true; // Không cho xuống dòng
+            }
+        }
+
+        private void txt_SDT_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true; // Không cho xuống dòng
+            }
+        }
+
+       
     }
 }

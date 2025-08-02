@@ -36,6 +36,7 @@
             this.linkRegister = new System.Windows.Forms.LinkLabel();
             this.linkForgotPassword = new System.Windows.Forms.LinkLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.chk_ShowPass = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -73,6 +74,7 @@
             this.txt_Username.Size = new System.Drawing.Size(354, 38);
             this.txt_Username.TabIndex = 2;
             this.txt_Username.TextChanged += new System.EventHandler(this.txt_Username_TextChanged);
+            this.txt_Username.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Username_KeyDown_1);
             // 
             // txt_Pass
             // 
@@ -84,7 +86,6 @@
             this.txt_Pass.Name = "txt_Pass";
             this.txt_Pass.Size = new System.Drawing.Size(354, 38);
             this.txt_Pass.TabIndex = 3;
-            this.txt_Pass.UseSystemPasswordChar = true;
             this.txt_Pass.TextChanged += new System.EventHandler(this.txt_Pass_TextChanged);
             this.txt_Pass.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_Pass_KeyDown);
             // 
@@ -137,12 +138,25 @@
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
             // 
+            // chk_ShowPass
+            // 
+            this.chk_ShowPass.AutoSize = true;
+            this.chk_ShowPass.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chk_ShowPass.Location = new System.Drawing.Point(283, 450);
+            this.chk_ShowPass.Name = "chk_ShowPass";
+            this.chk_ShowPass.Size = new System.Drawing.Size(126, 21);
+            this.chk_ShowPass.TabIndex = 8;
+            this.chk_ShowPass.Text = "Hiện Mật Khẩu ";
+            this.chk_ShowPass.UseVisualStyleBackColor = true;
+            this.chk_ShowPass.CheckedChanged += new System.EventHandler(this.chk_ShowPass_CheckedChanged);
+            // 
             // Form_Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(510, 724);
+            this.Controls.Add(this.chk_ShowPass);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.linkForgotPassword);
             this.Controls.Add(this.linkRegister);
@@ -174,5 +188,6 @@
         private System.Windows.Forms.LinkLabel linkRegister;
         private System.Windows.Forms.LinkLabel linkForgotPassword;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.CheckBox chk_ShowPass;
     }
 }

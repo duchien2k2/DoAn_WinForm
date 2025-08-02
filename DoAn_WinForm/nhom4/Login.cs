@@ -16,11 +16,16 @@ namespace nhom4
         public Form_Login()
         {
             InitializeComponent();
+            txt_Pass.PasswordChar = '*'; // Ẩn mật khẩu mặc định
+            this.txt_Username.KeyDown += txt_Username_KeyDown;
+
         }
 
         private void Login_Load(object sender, EventArgs e)
         {
             this.txt_Username.Focus();
+            this.txt_Username.Focus();
+            this.txt_Username.KeyDown += txt_Username_KeyDown;
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -104,8 +109,43 @@ namespace nhom4
                 e.SuppressKeyPress = true;   // Không phát ra tiếng beep hoặc xuống dòng
             }
         }
+        private void txt_Username_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.Handled = true;
+                e.SuppressKeyPress = true; // Không phát ra tiếng beep, không xuống dòng
+                txt_Pass.Focus(); // Di chuyển xuống textbox mật khẩu
+            }
+        }
 
+        private void txt_Username_KeyDown_1(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+                txt_Pass.Focus();
+            }
+        }
+
+        private void chk_ShowPass_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chk_ShowPass.Checked)
+            {
+                txt_Pass.PasswordChar = '\0'; // Hiện mật khẩu
+            }
+            else
+            {
+                txt_Pass.PasswordChar = '*'; // Ẩn mật khẩu
+            }
+        }
+
+
+        
     }
+
+
 
 }
 
