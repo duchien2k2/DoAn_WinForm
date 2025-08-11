@@ -1,5 +1,8 @@
-﻿using System;
+﻿using DevExpress.XtraEditors;
+using nhom4.Models; // Chỉ thêm nếu cần dùng lớp User hoặc lớp khác trong Models
+using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -14,9 +17,11 @@ namespace nhom4
         [STAThread]
         static void Main()
         {
+            SqlServerTypes.Utilities.LoadNativeAssemblies(AppDomain.CurrentDomain.BaseDirectory);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new XtraForm1());
+            WindowsFormsSettings.DefaultFont = new Font("Tahoma", 8.25f);
+            Application.Run(new FrmLogin());
         }
     }
 }

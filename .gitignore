@@ -1,1 +1,14 @@
-DoAn_WinForm/
+# Build outputs
+**/bin/
+**/obj/
+
+# Visual Studio user-specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/Resharper (nếu có)
+.idea/
+.ReSharper*/

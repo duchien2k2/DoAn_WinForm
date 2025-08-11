@@ -1,38 +1,226 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\doanlaptrinhwindow\\nhom4\\",
+  "WorkspaceRootPath": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|e:\\doanlaptrinhwindow\\nhom4\\nhom4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|d:\\projects\\laptrinhwindown .net\\doan_winform_nhom4\\nhom4\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|e:\\doanlaptrinhwindow\\nhom4\\nhom4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|E:\\doanlaptrinhwindow\\nhom4\\nhom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\reports\\hoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\reports\\hoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmspa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmspa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|e:\\doanlaptrinhwindow\\nhom4\\nhom4\\xtraform1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\xtraform1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|E:\\doanlaptrinhwindow\\nhom4\\nhom4\\xtraform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\xtraform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\services\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\services\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\doanlaptrinhwindow\\nhom4\\nhom4\\ResetPass.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nhom4\\ResetPass.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|E:\\doanlaptrinhwindow\\nhom4\\nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\services\\giohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\services\\giohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|E:\\doanlaptrinhwindow\\nhom4\\nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\xtraform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmhotelthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmhotelthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmnhapthucungmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmnhapthucungmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmadminpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmadminpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\repositories\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\repositories\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmhotelthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmhotelthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\services\\dichvuspaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\services\\dichvuspaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\dichvugiuthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\dichvugiuthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\danhmucthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\danhmucthucung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\danhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\danhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\danhmucdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\danhmucdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\viewmodels\\giohangitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\viewmodels\\giohangitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\thucunggui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\thucunggui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\petshopcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\petshopcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\services\\pethotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\services\\pethotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\viewmodels\\hoadonreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\viewmodels\\hoadonreportvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\viewmodels\\invoicelinevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\viewmodels\\invoicelinevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\viewmodels\\phongmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\viewmodels\\phongmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\repositories\\pethotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\repositories\\pethotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\repositories\\ipethotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\repositories\\ipethotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmnhapthucungmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmnhapthucungmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmhotelthucung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmhotelthucung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frminhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frminhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmgiohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmgiohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\models\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\repositories\\idichvusparepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\repositories\\idichvusparepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmspa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmspa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D8ABD0-BFD9-4244-8E96-44A02C4D2EF1}|nhom4\\nhom4.csproj|solutionrelative:nhom4\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +230,706 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2072371817:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "nhom4\\Form1.Designer.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\Form1.Designer.cs*",
-              "RelativeToolTip": "nhom4\\Form1.Designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Title": "FrmAdmin.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmAdmin.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmAdmin.cs",
+              "RelativeToolTip": "nhom4\\FrmAdmin.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAqwAIBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T02:14:10.633Z",
+              "WhenOpened": "2025-08-11T01:45:06.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\Form1.cs",
-              "RelativeDocumentMoniker": "nhom4\\Form1.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\Form1.cs [Design]",
-              "RelativeToolTip": "nhom4\\Form1.cs [Design]",
+              "DocumentIndex": 10,
+              "Title": "HoaDonService.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\HoaDonService.cs",
+              "RelativeDocumentMoniker": "nhom4\\Services\\HoaDonService.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\HoaDonService.cs",
+              "RelativeToolTip": "nhom4\\Services\\HoaDonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T02:11:03.825Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "XtraForm1.resx",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.resx",
-              "RelativeDocumentMoniker": "nhom4\\XtraForm1.resx",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.resx",
-              "RelativeToolTip": "nhom4\\XtraForm1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-21T02:03:10.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "XtraForm1.Designer.cs",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.Designer.cs",
-              "RelativeDocumentMoniker": "nhom4\\XtraForm1.Designer.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.Designer.cs",
-              "RelativeToolTip": "nhom4\\XtraForm1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T02:01:47.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResetPass.Designer.cs",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\ResetPass.Designer.cs",
-              "RelativeDocumentMoniker": "nhom4\\ResetPass.Designer.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\ResetPass.Designer.cs",
-              "RelativeToolTip": "nhom4\\ResetPass.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T02:01:05.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\Program.cs",
-              "RelativeDocumentMoniker": "nhom4\\Program.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\Program.cs",
-              "RelativeToolTip": "nhom4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T01:49:33.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "XtraForm1.cs",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.cs",
-              "RelativeDocumentMoniker": "nhom4\\XtraForm1.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.cs",
-              "RelativeToolTip": "nhom4\\XtraForm1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:09:56.071Z"
+              "WhenOpened": "2025-08-10T14:15:53.51Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "XtraForm1.cs [Design]",
-              "DocumentMoniker": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.cs",
-              "RelativeDocumentMoniker": "nhom4\\XtraForm1.cs",
-              "ToolTip": "E:\\doanlaptrinhwindow\\nhom4\\nhom4\\XtraForm1.cs [Design]",
-              "RelativeToolTip": "nhom4\\XtraForm1.cs [Design]",
+              "Title": "FrmSpa.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSpa.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmSpa.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSpa.cs [Design]",
+              "RelativeToolTip": "nhom4\\FrmSpa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T13:15:16.781Z"
+              "WhenOpened": "2025-08-10T06:13:47.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRegister.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmRegister.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmRegister.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmRegister.cs [Design]",
+              "RelativeToolTip": "nhom4\\FrmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:19:59.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSanPham.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmSanPham.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSanPham.cs [Design]",
+              "RelativeToolTip": "nhom4\\FrmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:15:33.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDon.rdlc [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Reports\\HoaDon.rdlc",
+              "RelativeDocumentMoniker": "nhom4\\Reports\\HoaDon.rdlc",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Reports\\HoaDon.rdlc [Design]",
+              "RelativeToolTip": "nhom4\\Reports\\HoaDon.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-08-10T17:03:01.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmTrangChu.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmTrangChu.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmTrangChu.cs [Design]",
+              "RelativeToolTip": "nhom4\\FrmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:43:36.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Program.cs",
+              "RelativeDocumentMoniker": "nhom4\\Program.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Program.cs",
+              "RelativeToolTip": "nhom4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:14:11.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmAdmin.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmAdmin.cs [Design]",
+              "RelativeToolTip": "nhom4\\FrmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:22:19.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmHotelThuCung.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmHotelThuCung.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmHotelThuCung.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmHotelThuCung.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmHotelThuCung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:18:35.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTrangChu.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmTrangChu.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmTrangChu.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmTrangChu.cs",
+              "RelativeToolTip": "nhom4\\FrmTrangChu.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:24:34.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GioHangService.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\GioHangService.cs",
+              "RelativeDocumentMoniker": "nhom4\\Services\\GioHangService.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\GioHangService.cs",
+              "RelativeToolTip": "nhom4\\Services\\GioHangService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:03:56.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmGioHang.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmGioHang.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmGioHang.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmGioHang.cs",
+              "RelativeToolTip": "nhom4\\FrmGioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:00:46.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmGioHang.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmGioHang.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmGioHang.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmGioHang.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmGioHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:29:07.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmInHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmInHoaDon.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmInHoaDon.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmInHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:24:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmLogin.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:22:30.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.Config",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\App.Config",
+              "RelativeDocumentMoniker": "nhom4\\App.Config",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\App.Config",
+              "RelativeToolTip": "nhom4\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-10T16:24:06.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmNhapThuCungMoi.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmNhapThuCungMoi.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmNhapThuCungMoi.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmNhapThuCungMoi.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmNhapThuCungMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:19:45.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmQuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmQuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmQuanLyHoaDon.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmQuanLyHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmQuanLyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:36:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmAdminPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmAdminPassword.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmAdminPassword.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmAdminPassword.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmAdminPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:16:05.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SanPhamRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\SanPhamRepository.cs",
+              "RelativeDocumentMoniker": "nhom4\\Repositories\\SanPhamRepository.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\SanPhamRepository.cs",
+              "RelativeToolTip": "nhom4\\Repositories\\SanPhamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:00:42.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmHotelThuCung.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmHotelThuCung.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmHotelThuCung.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmHotelThuCung.cs",
+              "RelativeToolTip": "nhom4\\FrmHotelThuCung.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwG4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:02:39.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DichVuSpaService.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\DichVuSpaService.cs",
+              "RelativeDocumentMoniker": "nhom4\\Services\\DichVuSpaService.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\DichVuSpaService.cs",
+              "RelativeToolTip": "nhom4\\Services\\DichVuSpaService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:12:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DichVuGiuThuCung.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DichVuGiuThuCung.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\DichVuGiuThuCung.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DichVuGiuThuCung.cs",
+              "RelativeToolTip": "nhom4\\Models\\DichVuGiuThuCung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:15:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DanhMucThuCung.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DanhMucThuCung.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\DanhMucThuCung.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DanhMucThuCung.cs",
+              "RelativeToolTip": "nhom4\\Models\\DanhMucThuCung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:16:08.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DanhMucSanPham.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DanhMucSanPham.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\DanhMucSanPham.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DanhMucSanPham.cs",
+              "RelativeToolTip": "nhom4\\Models\\DanhMucSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:16:07.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DanhMucDichVu.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DanhMucDichVu.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\DanhMucDichVu.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\DanhMucDichVu.cs",
+              "RelativeToolTip": "nhom4\\Models\\DanhMucDichVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:16:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GioHangItem.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\GioHangItem.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\ViewModels\\GioHangItem.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\GioHangItem.cs",
+              "RelativeToolTip": "nhom4\\Models\\ViewModels\\GioHangItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:16:25.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThuCungGui.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ThuCungGui.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\ThuCungGui.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ThuCungGui.cs",
+              "RelativeToolTip": "nhom4\\Models\\ThuCungGui.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:15:58.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PetShopContextDB.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\PetShopContextDB.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\PetShopContextDB.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\PetShopContextDB.cs",
+              "RelativeToolTip": "nhom4\\Models\\PetShopContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:15:56.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\SanPham.cs",
+              "RelativeToolTip": "nhom4\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:15:53.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\HoaDon.cs",
+              "RelativeToolTip": "nhom4\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:15:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PhongModel.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\PhongModel.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\ViewModels\\PhongModel.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\PhongModel.cs",
+              "RelativeToolTip": "nhom4\\Models\\ViewModels\\PhongModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:22:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PetHotelService.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\PetHotelService.cs",
+              "RelativeDocumentMoniker": "nhom4\\Services\\PetHotelService.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\PetHotelService.cs",
+              "RelativeToolTip": "nhom4\\Services\\PetHotelService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv04AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:37:57.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPetHotelRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\IPetHotelRepository.cs",
+              "RelativeDocumentMoniker": "nhom4\\Repositories\\IPetHotelRepository.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\IPetHotelRepository.cs",
+              "RelativeToolTip": "nhom4\\Repositories\\IPetHotelRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:00:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PetHotelRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\PetHotelRepository.cs",
+              "RelativeDocumentMoniker": "nhom4\\Repositories\\PetHotelRepository.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\PetHotelRepository.cs",
+              "RelativeToolTip": "nhom4\\Repositories\\PetHotelRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowD0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:00:39.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InvoiceLineVM.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\InvoiceLineVM.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\ViewModels\\InvoiceLineVM.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\InvoiceLineVM.cs",
+              "RelativeToolTip": "nhom4\\Models\\ViewModels\\InvoiceLineVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:10:22.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HoaDonReportVM.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\HoaDonReportVM.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\ViewModels\\HoaDonReportVM.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\ViewModels\\HoaDonReportVM.cs",
+              "RelativeToolTip": "nhom4\\Models\\ViewModels\\HoaDonReportVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:10:47.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmNhapThuCungMoi.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmNhapThuCungMoi.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmNhapThuCungMoi.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmNhapThuCungMoi.cs",
+              "RelativeToolTip": "nhom4\\FrmNhapThuCungMoi.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T09:12:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmForgotPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmForgotPassword.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmForgotPassword.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm - Copy\\nhom4\\FrmForgotPassword.cs [Design]",
+              "RelativeToolTip": "..\\DoAn_WinForm - Copy\\nhom4\\FrmForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:15:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmHotelThuCung.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmHotelThuCung.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmHotelThuCung.Designer.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmHotelThuCung.Designer.cs",
+              "RelativeToolTip": "nhom4\\FrmHotelThuCung.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwFAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:13:55.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "nhom4\\Services\\SanPhamService.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Services\\SanPhamService.cs",
+              "RelativeToolTip": "nhom4\\Services\\SanPhamService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:26:40.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmSanPham.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSanPham.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmSanPham.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSanPham.cs",
+              "RelativeToolTip": "nhom4\\FrmSanPham.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAANoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:15:37.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmInHoaDon.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmInHoaDon.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmInHoaDon.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmInHoaDon.cs",
+              "RelativeToolTip": "nhom4\\FrmInHoaDon.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:24:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\packages.config",
+              "RelativeDocumentMoniker": "nhom4\\packages.config",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\packages.config",
+              "RelativeToolTip": "nhom4\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-10T06:21:12.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmInHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmInHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmInHoaDon.Designer.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmInHoaDon.Designer.cs",
+              "RelativeToolTip": "nhom4\\FrmInHoaDon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:50:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmTrangChu.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmTrangChu.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmTrangChu.Designer.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmTrangChu.Designer.cs",
+              "RelativeToolTip": "nhom4\\FrmTrangChu.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwLYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:22:52.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FrmGioHang.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmGioHang.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmGioHang.Designer.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmGioHang.Designer.cs",
+              "RelativeToolTip": "nhom4\\FrmGioHang.Designer.cs",
+              "ViewState": "AgIAADkCAAAAAAAAAADgv1ECAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:24:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmLogin.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmLogin.cs",
+              "RelativeToolTip": "nhom4\\FrmLogin.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:13:47.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AppSession.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\AppSession.cs",
+              "RelativeDocumentMoniker": "nhom4\\Models\\AppSession.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Models\\AppSession.cs",
+              "RelativeToolTip": "nhom4\\Models\\AppSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:44:52.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmSpa.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSpa.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmSpa.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSpa.cs",
+              "RelativeToolTip": "nhom4\\FrmSpa.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwG8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T09:11:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IDichVuSpaRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\IDichVuSpaRepository.cs",
+              "RelativeDocumentMoniker": "nhom4\\Repositories\\IDichVuSpaRepository.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\Repositories\\IDichVuSpaRepository.cs",
+              "RelativeToolTip": "nhom4\\Repositories\\IDichVuSpaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:03:41.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmSanPham.Designer.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmSanPham.Designer.cs",
+              "RelativeToolTip": "nhom4\\FrmSanPham.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:14:17.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmForgotPassword.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmForgotPassword.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmForgotPassword.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmForgotPassword.cs",
+              "RelativeToolTip": "nhom4\\FrmForgotPassword.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAApwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:13:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmRegister.cs",
+              "DocumentMoniker": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmRegister.cs",
+              "RelativeDocumentMoniker": "nhom4\\FrmRegister.cs",
+              "ToolTip": "D:\\Projects\\LapTrinhWindown .NET\\DoAn_WinForm_Nhom4\\nhom4\\FrmRegister.cs",
+              "RelativeToolTip": "nhom4\\FrmRegister.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAEwJ0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:12:56.214Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             }
           ]
         }
