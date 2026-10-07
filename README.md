@@ -30,4 +30,4 @@ Manage a pet shop with WinForms: products, spa/hotel services, a unified shoppin
 
 @ddoviethoang — System design & modeling; developed administration features.
 
-@ChauThLong — Supported system design, requirements documentation & modeling; developed the unified cart and invoicing.
+@longchau5823 — Supported system design, requirements documentation & modeling; developed the unified cart and invoicing.
